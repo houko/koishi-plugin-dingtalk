@@ -1,8 +1,8 @@
 {
-  "name": "@xiaomo/koishi-plugin-adapter-dingtalk",
+  "name": "@xiaomoinfo/koishi-plugin-adapter-dingtalk",
   "description": "adapter dingtalk(in develop)",
   "version": "0.0.1-alpha",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "homepage": "https://github.com/houko/xiaomo-koishi-plugins/tree/main/adapter-dingtalk",
   "maintainers": [
@@ -20,7 +20,10 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "publish": "npm publish --access public",
+    "unpublish": "npm unpublish --force"
+  },
   "keywords": [
     "dingtalk",
     "koishi",

@@ -1,6 +1,6 @@
 import { Context, Schema } from 'koishi'
 
-export const name = 'dingtalk-adapter'
+export const name = '@xiaomo/dingtalk-adapter'
 
 export interface Config {}
 

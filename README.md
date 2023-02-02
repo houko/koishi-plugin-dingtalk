@@ -27,3 +27,5 @@ git submooulde add https://github.com/houko/xiaomo-koishi-plugins.git
 ```
 
 
+## 所有插件
+https://www.npmjs.com/settings/xiaomoinfo/packages

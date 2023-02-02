@@ -1,8 +1,8 @@
 {
-  "name": "@xiaomo/tyq",
+  "name": "@xiaomoinfo/koishi-plugin-tyq",
   "description": "透群友，你懂的",
   "version": "0.0.1-alpha",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "homepage": "https://github.com/houko/xiaomo-koishi-plugins/tree/main/tqy",
   "maintainers": [
@@ -20,7 +20,10 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "publish": "npm publish --access public",
+    "unpublish": "npm unpublish --force"
+  },
   "keywords": [
     "tyc",
     "koishi",
