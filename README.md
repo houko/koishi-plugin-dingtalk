@@ -21,7 +21,7 @@ git submooulde add https://github.com/houko/xiaomo-koishi-plugins.git
 ├── plugins
 │   ├── adapter-dingtalk
 │   │   └── src
-│   └── tyq
+│   └── tqy
 │       └── src
 └── public
 ```
