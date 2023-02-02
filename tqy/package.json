@@ -1,0 +1,32 @@
+{
+  "name": "@xiaomo/tyq",
+  "description": "透群友，你懂的",
+  "version": "0.0.1-alpha",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "homepage": "https://github.com/houko/xiaomo-koishi-plugins/tree/main/tqy",
+  "maintainers": [
+    {
+      "name": "@houko",
+      "email": "xiaomo@xiamo.info"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/houko/xiaomo-koishi-plugins.git"
+  },
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "tyc",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.4"
+  }
+}
