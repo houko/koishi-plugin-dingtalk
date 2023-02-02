@@ -1,7 +1,7 @@
 {
   "name": "@xiaomoinfo/koishi-plugin-tyq",
-  "description": "透群友，你懂的",
-  "version": "0.0.1-alpha",
+  "description": "透群友，你懂的(占个位)",
+  "version": "0.0.1-alpha2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "homepage": "https://github.com/houko/xiaomo-koishi-plugins/tree/main/tqy",
