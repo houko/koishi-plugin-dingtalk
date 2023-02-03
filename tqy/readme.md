@@ -1,5 +1,4 @@
-# koishi-plugin-dingtalk-adapter
+# koishi-plugin-tqy
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-dingtalk-adapter?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-dingtalk-adapter)
+[![npm](https://img.shields.io/npm/v/@xiaomoinfo/koishi-plugin-tqy?style=flat-square)](https://www.npmjs.com/package/@xiaomoinfo/koishi-plugin-tqy)
 
-dingtalk adapter

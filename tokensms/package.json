@@ -1,10 +1,16 @@
 {
-  "name": "@xiaomoinfo/koishi-plugin-tqy",
-  "description": "透群友，你懂的(占个位)",
-  "version": "0.0.1-alpha2",
+  "name": "koishi-plugin-tokensms",
+  "description": "收短信的(占位)",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "homepage": "https://github.com/houko/xiaomo-koishi-plugins/tree/main/tqy",
+  "homepage": "https://github.com/houko/xiaomo-koishi-plugins/tree/main/tokensms",
+  "contributors": [
+    {
+      "name": "@houko",
+      "email": "xiaomo@xiamo.info"
+    }
+  ],
   "maintainers": [
     {
       "name": "@houko",
@@ -25,7 +31,7 @@
     "unpublish": "npm unpublish --force"
   },
   "keywords": [
-    "tyc",
+    "dingtalk",
     "koishi",
     "plugin"
   ],
